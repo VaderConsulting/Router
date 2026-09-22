@@ -11,3 +11,20 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `Project1` (`Router.vbp`) | VB6 | WinForms exe | Classify and distribute signals to directories |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `Router.vbp`
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+
+## Attribution and provenance
+
+Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Router`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
